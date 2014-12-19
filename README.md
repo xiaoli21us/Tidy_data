@@ -1,7 +1,7 @@
 Getting and Cleaning Data - Course Project
 
-This repository include the R code and a README.md in the repo describing how the script works and 
-the codebook.md describing the variables for the "Getting and Cleaning data" class project. tidydata.txt 
+This repository include the R code, a README.md describing how the script works and 
+the codebook.md describing the variables for the "Getting and Cleaning data" class project. Tidydata.txt 
 is the output of the R programming.
  
 The run_analysis.R programming do the following jobs.
@@ -15,7 +15,7 @@ The run_analysis.R programming do the following jobs.
 6.Creates tidy data set with the average of each variable for each activity and each subject. Write
   the tidy data set to the tidydata.txt file.
 
-CodeBook.md  describes the variables/data, and work that was performed to clean up the data.
+codebook.md  describes the variables/data, and work that was performed to clean up the data.
 
 
 tidydata.txt is the output of the run_analysis.R programming
