@@ -1,7 +1,7 @@
 Getting and Cleaning Data - Course Project
 
 This repository include the R code and a README.md in the repo describing how the script works and 
-the codCodeBook.md describing the variables for the "Getting and Cleaning data" class project. tidydata.txt 
+the codebook.md describing the variables for the "Getting and Cleaning data" class project. tidydata.txt 
 is the output of the R programming.
  
 The run_analysis.R programming do the following jobs.
